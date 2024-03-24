@@ -7,6 +7,7 @@ export const metadata = {
   description: "This is settings page",
 };
 const Settings = () => {
+  // throw new Error("Error in the setting page")
   return (
     <div>
       <p className="text-3xl bg-green-400">This is settings page</p>
