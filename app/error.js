@@ -40,5 +40,5 @@ export default function RootError({ error, reset }) {
   </RootLayout>
 </GlobalError>;
 
-// Error will be cot by it's nearest error boundary.  
+// Error will be caught by it's nearest error boundary.  
 */

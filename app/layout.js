@@ -21,6 +21,12 @@ export default function RootLayout({ children }) {
             <li>
               <CustomLink path="/heavy">Heavy</CustomLink>
             </li>
+            <li>
+              <CustomLink path="/shirt">Shirt</CustomLink>
+            </li>
+            <li>
+              <CustomLink path="/pants">Pants</CustomLink>
+            </li>
           </ul>
         </nav>
         {children}
